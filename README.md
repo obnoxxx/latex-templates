@@ -3,7 +3,7 @@ templates fow writing LaTeX documents
 
 ## Instructions:
 
-1. create a project directory fo touryour LaTeX document.
+1. create a project directory fo your  LaTeX document.
 2. copy the desired template file to the project dir using the desired base name.
 3. (e. g. `cp latex-template.tex /path/to/project/doc.tex`)
 4. edit doc.tex
